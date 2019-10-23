@@ -20,6 +20,7 @@ public class MyService extends Service {
     @Override
     public IBinder onBind(Intent intent) {
         map = new ConcurrentHashMap<>();
+
         for (int i = 0; i < 100; i++) {
             map.put("name" + i, new UserInfoBean("name" + i, "accountNo" + i, i));
         }
