@@ -38,6 +38,7 @@ aidl.gif
 
 1
 ![](https://github.com/wangkangda11/MyRpcFramework-master/raw/master/image/adil1.gif)  
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
 
 图中的 查找用户，是从 服务端读取的数据，观察一下核心代码：
