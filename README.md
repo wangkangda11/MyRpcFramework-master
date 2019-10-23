@@ -37,7 +37,7 @@ java注解，java反射，java 泛型
 aidl.gif
 
 1
-![github](https://github.com/wangkangda11/MyRpcFramework-master/tree/master/image)
+![github](https://github.com/wangkangda11/MyRpcFramework-master/blob/master/image/adil1.gif)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
 
