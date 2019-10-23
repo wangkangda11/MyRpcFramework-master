@@ -37,7 +37,7 @@ java注解，java反射，java 泛型
 aidl.gif
 
 1
-![](https://github.com/wangkangda11/MyRpcFramework-master/image/adil1.gif)   
+![](https://github.com/wangkangda11/MyRpcFramework-master/raw/master/image/adil1.gif)  
 
 
 图中的 查找用户，是从 服务端读取的数据，观察一下核心代码：
