@@ -38,12 +38,12 @@ aidl.gif
 
 1
 ![github](https://github.com/wangkangda11/MyRpcFramework-master/blob/master/image/adil1.gif)
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
 
 图中的 查找用户，是从 服务端读取的数据，观察一下核心代码：
 这是我优化之后的IPC项目结构(如果不优化，那么客户端 服务端都需要编写一样的AIDL代码，还要有一个包括包名在内神马都要一模一样的JavaBean，实在是丑陋):
 
+![github](https://github.com/wangkangda11/MyRpcFramework-master/blob/master/image/IPCjg.png)
 image.png
 服务端核心代码:
 
@@ -195,7 +195,7 @@ Demo中只有一个客户端，还不是很明显，但是如果有N个客户端
 三、Demo展示
 github地址：https://github.com/18598925736/MyRpc
 
-
+![github](https://github.com/wangkangda11/MyRpcFramework-master/blob/master/image/ipc.gif)
 ipc.gif
 
 以上Demo，模拟的场景是：
